@@ -63,3 +63,11 @@ h1, h2, h3, a {
   font-family: "Lato", sans-serif;
 
 }
+
+.menu a {
+  color: white;
+}
+
+.menu a:hover {
+  color: #827081;
+}
